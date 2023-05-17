@@ -14,6 +14,7 @@
   I'm &lt;Mahmoud Khalil /&gt;! 
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
@@ -55,7 +56,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
 
 <img align="center" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midokhalil1987&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
