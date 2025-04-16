@@ -31,7 +31,7 @@
 - 🛠 &nbsp; I’m currently working with React, React Native, Nextjs, <br /> Nodejs, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: midokhalil1987@gmail.com.
+- 📫 &nbsp; How to reach me: [midokhalil1987@gmail.com](https://my-portfolio-nine-blond.vercel.app/).
 - 📝 &nbsp; Checkout my [Resume] .. soon will come here ;)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
